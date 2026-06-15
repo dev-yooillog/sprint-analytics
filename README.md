@@ -1,3 +1,4 @@
+<img width="816" height="738" alt="overview" src="https://github.com/user-attachments/assets/06ace3b3-a3b4-4532-9ec0-662adee71225" />
 # Sprint Analytics — 부트캠프 학습 성과 모니터링 시스템
 
 부트캠프 수강생의 학습 몰입도를 실시간으로 파악하고,
@@ -102,3 +103,5 @@ streamlit run app.py
 - **비즈니스 마인드**: 운영 프로세스 반영에 집중
 - **바이브 코딩**: Streamlit 기반 MVP를 빠르게 프로토타이핑
 - **협업 설계**: 대시보드 데이터를 공유하여 커리큘럼 난이도를 조정하는 운영 플로우 제언을 넣었음
+
+<img width="816" height="738" alt="overview" src="https://github.com/user-attachments/assets/0c1bc35e-49bb-4da6-8bb8-1d5a2a76b831" />
