@@ -1,4 +1,3 @@
-<img width="816" height="738" alt="overview" src="https://github.com/user-attachments/assets/06ace3b3-a3b4-4532-9ec0-662adee71225" />
 # Sprint Analytics — 부트캠프 학습 성과 모니터링 시스템
 
 부트캠프 수강생의 학습 몰입도를 실시간으로 파악하고,
