@@ -1,11 +1,12 @@
 # Sprint Analytics — 부트캠프 학습 성과 모니터링 시스템
 
 부트캠프 수강생의 학습 몰입도를 실시간으로 파악하고,
-중도 이탈을 사전에 예방하기 위한 데이터 분석 대시보드 MVP입니다.
+중도 이탈을 사전에 예방하기 위한 데이터 분석 대시보드 MVP
 
 ---
 
 ## 프로젝트 구조
+```
 sprint-analytics/
 ├── app.py
 ├── requirements.txt
@@ -20,7 +21,7 @@ sprint-analytics/
 ├── 1_overview.py
 ├── 2_risk.py
 └── 3_bottleneck.py
-
+```
 ---
 
 ## 실행 방법
